@@ -1,4 +1,4 @@
-### Cheyenne Fontes
+<h2> Hi, I'm Chey Fontes! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 ![Linkedin Badge](https://img.shields.io/badge/-Cheyenne_Fontes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
@@ -15,4 +15,3 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-⭐️ From [Cheyenne Fontes](https://github.com/cheyennefontes)
