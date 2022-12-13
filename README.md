@@ -9,13 +9,20 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Skills :** Ruby / Ruby on Rails, HTML5, CSS3 / Bootstrap, JavaScript, SQL / PostgreSQL, Object Oriented Programming (OOP), Git / Github
--  **Hobbies :** Travel, Books, Food, Pets & Music :headphones:
+-  **Hobbies :** Travel, Books :books:, Food, Pets & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=cheyennefontes&show_icons=true)
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<br />
+<br />
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ApurvShh007.ApurvShah007)
+ 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⭐️ From [Cheyenne Fontes](https://github.com/cheyennefontes)
 
