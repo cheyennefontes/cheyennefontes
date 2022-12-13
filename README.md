@@ -1,5 +1,5 @@
 ### Cheyenne Fontes
-[![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)]
+[!Linkedin Badge(https://img.shields.io/badge/-Cheyenne_Fontes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)]
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
