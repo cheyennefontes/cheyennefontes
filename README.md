@@ -2,8 +2,9 @@
 
 ### 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Cheyenne_Fontes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cheyennefontes///)](https://www.linkedin.com/in/cheyennefontes/)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p>
+    <a href="https://www.linkedin.com/in/cheyennefontes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3F3D56?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.instagram.com/cheyennefontes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-3F3D56?style=for-the-badge&logo=instagram&logoColor=white"></a> </p>
 
 ### About
 
