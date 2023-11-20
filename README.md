@@ -8,8 +8,8 @@
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Skills :** Ruby / Ruby on Rails, HTML5, CSS3 / Bootstrap, JavaScript, SQL / PostgreSQL, Object Oriented Programming (OOP), Git / Github
+-  **Learning :** Cloud Architect | Software Development :zap: | Open-Source :fire:	
+-  **Skills :** Cloud Computing / Docker / Linux / Ruby / Ruby on Rails, HTML5, CSS3 / Bootstrap, JavaScript, SQL / PostgreSQL, Object Oriented Programming (OOP), Git / Github
 -  **Hobbies :** Travel, Books :books:, Food, Pets & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart: 
 
